@@ -7,3 +7,4 @@
 # encryption result ![F38BB3FE-11D3-4413-AA3C-E38C5AF52846](https://github.com/user-attachments/assets/4ca22d13-bbd7-422a-a4bc-9684ff2c875c)
 # bigger is greater result ![D228C487-BAD8-4C7A-930D-B1CE53682F77](https://github.com/user-attachments/assets/729d22d9-988a-4462-909a-c95724c0c731)
 # time in words result ![420913EA-1FB8-4F3B-B651-7A2E7758945B](https://github.com/user-attachments/assets/81dd9612-d7da-4b85-8d88-276c0db78381)
+# the grid search result ![2E5364DA-7E46-45C1-8CDE-156936ABFE5E](https://github.com/user-attachments/assets/142e4727-1431-4d73-9d98-78d69e863c52)
