@@ -24,3 +24,4 @@
 # Bear And Steady Gene result ![17ACED46-1E07-4AA8-9D13-215721A7F72D](https://github.com/user-attachments/assets/78fc4cb9-df71-4cbc-9ec5-b17f0f485282)
 # Hackerland Radio Transmitters ![1E3FC8B6-4A97-41EC-B57D-1D7AB372474E](https://github.com/user-attachments/assets/e00c446f-d667-419e-8359-f10ad939c7c8)
 # gridland metro result ![51AC6CFB-980D-4EC6-A342-5749DF0228A6](https://github.com/user-attachments/assets/0b9f471d-f4bb-4465-824a-a8d3b7b4a47d)
+# minimum loss result ![92B0C27F-742F-4264-AE8B-82B2BFB319CB](https://github.com/user-attachments/assets/9b498b70-0666-455f-8599-02e18484196f)
