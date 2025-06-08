@@ -10,3 +10,4 @@
 # the grid search result ![2E5364DA-7E46-45C1-8CDE-156936ABFE5E](https://github.com/user-attachments/assets/142e4727-1431-4d73-9d98-78d69e863c52)
 # 3d surface erea result ![6342C7EB-1004-401F-B09C-703238C4C5AD](https://github.com/user-attachments/assets/fb37ee61-40dd-4e8c-a2ed-1c9c5a9b5ad0)
 # absolute fermutation result ![8DEDB19E-4233-432E-BDA6-93CBE8F5AB27](https://github.com/user-attachments/assets/2471ff73-3ee4-4ec2-8202-c65f214d23d8)
+# the bomberman game result ![63899F13-5C9F-47C8-A148-F0A64F3DA3EA](https://github.com/user-attachments/assets/c789bf5d-d316-4949-8397-52ab2b727dea)
