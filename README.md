@@ -18,3 +18,4 @@
 # Fraudulent Activity Notifications result ![025D89C0-5D28-4879-98F3-86067500134C](https://github.com/user-attachments/assets/b0bff82a-e01c-4a24-aa30-a658e6ad0991)
 # lily's homework result ![EBB6A17D-486C-4A92-9390-F23DDE3BA79F](https://github.com/user-attachments/assets/b540f675-fadb-4125-b9b1-31d6341e7ae9)
 # Sherlock And Valid String result ![84106BEE-69A9-42A2-ADEB-891DCE2FECDA](https://github.com/user-attachments/assets/a6670958-0cb2-44f0-9eb4-80759fa0d868)
+# Highest Value Palindrome result ![9A55E4EC-90F3-4853-859A-603FF350B915](https://github.com/user-attachments/assets/f830c1ae-9cd6-4736-a9ba-ed2222dce8f0)
