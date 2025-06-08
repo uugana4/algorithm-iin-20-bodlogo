@@ -19,3 +19,4 @@
 # lily's homework result ![EBB6A17D-486C-4A92-9390-F23DDE3BA79F](https://github.com/user-attachments/assets/b540f675-fadb-4125-b9b1-31d6341e7ae9)
 # Sherlock And Valid String result ![84106BEE-69A9-42A2-ADEB-891DCE2FECDA](https://github.com/user-attachments/assets/a6670958-0cb2-44f0-9eb4-80759fa0d868)
 # Highest Value Palindrome result ![9A55E4EC-90F3-4853-859A-603FF350B915](https://github.com/user-attachments/assets/f830c1ae-9cd6-4736-a9ba-ed2222dce8f0)
+# sherlock and anagrams result ![374866B4-B031-4D1F-AA80-B869EF738574](https://github.com/user-attachments/assets/a0f7bc88-2e9f-44b2-9c53-84bb63cac193)
