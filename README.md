@@ -9,3 +9,4 @@
 # time in words result ![420913EA-1FB8-4F3B-B651-7A2E7758945B](https://github.com/user-attachments/assets/81dd9612-d7da-4b85-8d88-276c0db78381)
 # the grid search result ![2E5364DA-7E46-45C1-8CDE-156936ABFE5E](https://github.com/user-attachments/assets/142e4727-1431-4d73-9d98-78d69e863c52)
 # 3d surface erea result ![6342C7EB-1004-401F-B09C-703238C4C5AD](https://github.com/user-attachments/assets/fb37ee61-40dd-4e8c-a2ed-1c9c5a9b5ad0)
+# absolute fermutation result ![8DEDB19E-4233-432E-BDA6-93CBE8F5AB27](https://github.com/user-attachments/assets/2471ff73-3ee4-4ec2-8202-c65f214d23d8)
