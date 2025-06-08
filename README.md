@@ -5,3 +5,4 @@
 # queen's attack result ![95F6504C-28D1-4EB6-92A7-DF3CCA104D73](https://github.com/user-attachments/assets/5a818dcd-571c-4b55-b195-dc3268b4a71c)
 # organizing containers of ball result ![6F31F1B1-E1E0-48C4-BBB8-918952B18857](https://github.com/user-attachments/assets/a6ba48e5-4f36-424a-ac14-cd10ed8949e5)
 # encryption result ![F38BB3FE-11D3-4413-AA3C-E38C5AF52846](https://github.com/user-attachments/assets/4ca22d13-bbd7-422a-a4bc-9684ff2c875c)
+# bigger is greater result ![D228C487-BAD8-4C7A-930D-B1CE53682F77](https://github.com/user-attachments/assets/729d22d9-988a-4462-909a-c95724c0c731)
