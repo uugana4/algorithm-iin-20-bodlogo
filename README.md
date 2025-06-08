@@ -12,3 +12,4 @@
 # absolute fermutation result ![8DEDB19E-4233-432E-BDA6-93CBE8F5AB27](https://github.com/user-attachments/assets/2471ff73-3ee4-4ec2-8202-c65f214d23d8)
 # the bomberman game result ![63899F13-5C9F-47C8-A148-F0A64F3DA3EA](https://github.com/user-attachments/assets/c789bf5d-d316-4949-8397-52ab2b727dea)
 # ema's supercomputer result ![8DD86D9C-5F5E-4F57-8DF5-8D873D7F61C7](https://github.com/user-attachments/assets/2869ff43-dea7-4aea-af2f-b6f3d2d6c255)
+# larry's array result ![86ADFDFF-49BF-40E1-A92F-60A6FEFB950D](https://github.com/user-attachments/assets/315081f6-f96b-4f0d-83e7-297302acf709)
