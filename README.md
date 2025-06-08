@@ -17,3 +17,4 @@
 # the full counting sort ![017556A6-7E72-46E9-9737-A760CB1EE0CA](https://github.com/user-attachments/assets/b8a2e98e-f47a-4d48-9a5a-0a5658b61cd4)
 # Fraudulent Activity Notifications result ![025D89C0-5D28-4879-98F3-86067500134C](https://github.com/user-attachments/assets/b0bff82a-e01c-4a24-aa30-a658e6ad0991)
 # lily's homework result ![EBB6A17D-486C-4A92-9390-F23DDE3BA79F](https://github.com/user-attachments/assets/b540f675-fadb-4125-b9b1-31d6341e7ae9)
+# Sherlock And Valid String result ![84106BEE-69A9-42A2-ADEB-891DCE2FECDA](https://github.com/user-attachments/assets/a6670958-0cb2-44f0-9eb4-80759fa0d868)
