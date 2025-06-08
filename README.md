@@ -1,4 +1,4 @@
-# algorithm-iin-20-bodlogo
+# algorithm-iin-25-bodlogo
 # climbing the leaderboard result ![D32740D3-F3AC-4066-A937-5D1FC215C3F7](https://github.com/user-attachments/assets/36cabe9b-8ad1-448f-b8d9-f1456c5e9750)
 # extra long factorials result ![9A4593B7-9D93-4605-BBD8-7703EDA93F94](https://github.com/user-attachments/assets/01acb7cd-847d-4dbc-91b2-8808f94b41b9)
 # non-disible subset result ![6EB3D179-B231-42EE-A3D1-1FF9A2651CD7](https://github.com/user-attachments/assets/08db0cea-3468-4f04-9265-c2a8f850c70e)
@@ -23,3 +23,4 @@
 # common child result ![273B3012-4FB6-4E42-8412-D5F3D6505C65](https://github.com/user-attachments/assets/ee4da737-137a-40f9-a0e9-8ea83ca81bba)
 # Bear And Steady Gene result ![17ACED46-1E07-4AA8-9D13-215721A7F72D](https://github.com/user-attachments/assets/78fc4cb9-df71-4cbc-9ec5-b17f0f485282)
 # Hackerland Radio Transmitters ![1E3FC8B6-4A97-41EC-B57D-1D7AB372474E](https://github.com/user-attachments/assets/e00c446f-d667-419e-8359-f10ad939c7c8)
+# gridland metro result ![51AC6CFB-980D-4EC6-A342-5749DF0228A6](https://github.com/user-attachments/assets/0b9f471d-f4bb-4465-824a-a8d3b7b4a47d)
