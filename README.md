@@ -20,3 +20,4 @@
 # Sherlock And Valid String result ![84106BEE-69A9-42A2-ADEB-891DCE2FECDA](https://github.com/user-attachments/assets/a6670958-0cb2-44f0-9eb4-80759fa0d868)
 # Highest Value Palindrome result ![9A55E4EC-90F3-4853-859A-603FF350B915](https://github.com/user-attachments/assets/f830c1ae-9cd6-4736-a9ba-ed2222dce8f0)
 # sherlock and anagrams result ![374866B4-B031-4D1F-AA80-B869EF738574](https://github.com/user-attachments/assets/a0f7bc88-2e9f-44b2-9c53-84bb63cac193)
+# common child result ![273B3012-4FB6-4E42-8412-D5F3D6505C65](https://github.com/user-attachments/assets/ee4da737-137a-40f9-a0e9-8ea83ca81bba)
