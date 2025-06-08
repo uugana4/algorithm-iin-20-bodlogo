@@ -6,3 +6,4 @@
 # organizing containers of ball result ![6F31F1B1-E1E0-48C4-BBB8-918952B18857](https://github.com/user-attachments/assets/a6ba48e5-4f36-424a-ac14-cd10ed8949e5)
 # encryption result ![F38BB3FE-11D3-4413-AA3C-E38C5AF52846](https://github.com/user-attachments/assets/4ca22d13-bbd7-422a-a4bc-9684ff2c875c)
 # bigger is greater result ![D228C487-BAD8-4C7A-930D-B1CE53682F77](https://github.com/user-attachments/assets/729d22d9-988a-4462-909a-c95724c0c731)
+# time in words result ![420913EA-1FB8-4F3B-B651-7A2E7758945B](https://github.com/user-attachments/assets/81dd9612-d7da-4b85-8d88-276c0db78381)
